@@ -1,0 +1,56 @@
+STARTFONT DPF 1.0
+FONT Converted Palette
+
+PALETTE 48
+R E53935FF # Red
+r 8E3B3BFF # Red
+$ D81B60FF # Red
+% F06292FF # Red
+O FB8C00FF # Orange
+B C77800FF # Brown
+b C69C1AFF # Brown
+& D4A03DFF # Red
+' FBC02DFF # Brown
+G C0CA33FF # Green
+g 7CB342FF # Green
+L 43A047FF # Lime
+D 2E7D32FF # Dark Green
+( 00897BFF # Green
+) 0097A7FF # Blue
+l 5EA9FFFF # Light Blue
+* 1E88E5FF # Blue
++ 3749B6FF # Blue
+, 2540A0FF # Blue
+- 8E24AAFF # Blue
+d 5D4037FF # Dark Red
+P F3C6B8FF # Pink
+W FFFFFFFF # White
+p E0E0E0FF # Pale Gray
+. 9E9E9EFF # Light Gray
+/ 424242FF # Gray
+0 000000FF # Black
+1 401A90FF # Dark Blue
+2 24754AFF # Dark Green
+V D141B3FF # Violet
+3 478434FF # Green
+4 6615A6FF # Blue
+5 544AB4FF # Blue
+6 214D2DFF # Dark Green
+7 11805DFF # Dark Green
+v EA4BA7FF # Violet
+8 873587FF # Red
+9 94B147FF # Green
+: 15B4F2FF # Blue
+; BB1E39FF # Red
+< E19E71FF # Red
+= D0C550FF # Red
+> 48762DFF # Dark Green
+? 3B9C31FF # Lime
+@ 6990DAFF # Blue
+A 3C3E85FF # Blue
+C 51179BFF # Blue
+E 9F17E0FF # Violet
+ENDPALETTE
+
+ICONS 0
+ENDFONT

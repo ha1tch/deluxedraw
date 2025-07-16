@@ -1,0 +1,40 @@
+STARTFONT DPF 1.0
+FONT Converted Palette
+
+PALETTE 32
+R E53935FF # red
+A 8E3B3BFF # auburn
+M D81B60FF # magenta
+P F06292FF # pink
+O FB8C00FF # orange
+G C77800FF # ginger
+D C69C1AFF # dorado
+o D4A03DFF # ochre
+Y FBC02DFF # yellow
+C C0CA33FF # chartreuse
+L 7CB342FF # lime
+K 43A047FF # kelly
+F 2E7D32FF # forest
+T 00897BFF # teal
+c 0097A7FF # cyan
+S 5EA9FFFF # sky
+B 1E88E5FF # blue
+U 3749B6FF # ultramarine
+N 2540A0FF # navy
+V 8E24AAFF # violet
+u 5D4037FF # umber
+p F3C6B8FF # peach blush
+W FFFFFFFF # white
+s E0E0E0FF # silver
+a 9E9E9EFF # ash
+J 424242FF # jet
+$ 000000FF # onyx
+n 461E98FF # navy-02
+% 20794AFF # sea green
+m D234B0FF # magenta-02
+g 4C8D37FF # green
+& 6919A8FF # purple
+ENDPALETTE
+
+ICONS 0
+ENDFONT

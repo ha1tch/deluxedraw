@@ -1,0 +1,67 @@
+/* Deluxe Draw palette 20 */
+/* Generated Color Palette: deluxe20 (20 colors) */
+
+:root {
+  --color-red: #E53935;
+  --color-auburn: #8E3B3B;
+  --color-magenta: #D81B60;
+  --color-orange: #FB8C00;
+  --color-ochre: #D4A03D;
+  --color-yellow: #FBC02D;
+  --color-lime: #7CB342;
+  --color-kelly: #43A047;
+  --color-forest: #2E7D32;
+  --color-cyan: #0097A7;
+  --color-sky: #5EA9FF;
+  --color-blue: #1E88E5;
+  --color-navy: #2540A0;
+  --color-violet: #8E24AA;
+  --color-umber: #5D4037;
+  --color-peach-blush: #F3C6B8;
+  --color-silver: #E0E0E0;
+  --color-ash: #9E9E9E;
+  --color-jet: #424242;
+  --color-onyx: #000000;
+}
+
+/* Utility Classes */
+.bg-red { background-color: #E53935; }
+.text-red { color: #E53935; }
+.bg-auburn { background-color: #8E3B3B; }
+.text-auburn { color: #8E3B3B; }
+.bg-magenta { background-color: #D81B60; }
+.text-magenta { color: #D81B60; }
+.bg-orange { background-color: #FB8C00; }
+.text-orange { color: #FB8C00; }
+.bg-ochre { background-color: #D4A03D; }
+.text-ochre { color: #D4A03D; }
+.bg-yellow { background-color: #FBC02D; }
+.text-yellow { color: #FBC02D; }
+.bg-lime { background-color: #7CB342; }
+.text-lime { color: #7CB342; }
+.bg-kelly { background-color: #43A047; }
+.text-kelly { color: #43A047; }
+.bg-forest { background-color: #2E7D32; }
+.text-forest { color: #2E7D32; }
+.bg-cyan { background-color: #0097A7; }
+.text-cyan { color: #0097A7; }
+.bg-sky { background-color: #5EA9FF; }
+.text-sky { color: #5EA9FF; }
+.bg-blue { background-color: #1E88E5; }
+.text-blue { color: #1E88E5; }
+.bg-navy { background-color: #2540A0; }
+.text-navy { color: #2540A0; }
+.bg-violet { background-color: #8E24AA; }
+.text-violet { color: #8E24AA; }
+.bg-umber { background-color: #5D4037; }
+.text-umber { color: #5D4037; }
+.bg-peach-blush { background-color: #F3C6B8; }
+.text-peach-blush { color: #F3C6B8; }
+.bg-silver { background-color: #E0E0E0; }
+.text-silver { color: #E0E0E0; }
+.bg-ash { background-color: #9E9E9E; }
+.text-ash { color: #9E9E9E; }
+.bg-jet { background-color: #424242; }
+.text-jet { color: #424242; }
+.bg-onyx { background-color: #000000; }
+.text-onyx { color: #000000; }

@@ -1,0 +1,31 @@
+/* Deluxe Draw palette 08 */
+/* Generated Color Palette: deluxe08 (8 colors) */
+
+:root {
+  --color-red: #E53935;
+  --color-yellow: #FBC02D;
+  --color-kelly: #43A047;
+  --color-blue: #1E88E5;
+  --color-violet: #8E24AA;
+  --color-umber: #5D4037;
+  --color-silver: #E0E0E0;
+  --color-onyx: #000000;
+}
+
+/* Utility Classes */
+.bg-red { background-color: #E53935; }
+.text-red { color: #E53935; }
+.bg-yellow { background-color: #FBC02D; }
+.text-yellow { color: #FBC02D; }
+.bg-kelly { background-color: #43A047; }
+.text-kelly { color: #43A047; }
+.bg-blue { background-color: #1E88E5; }
+.text-blue { color: #1E88E5; }
+.bg-violet { background-color: #8E24AA; }
+.text-violet { color: #8E24AA; }
+.bg-umber { background-color: #5D4037; }
+.text-umber { color: #5D4037; }
+.bg-silver { background-color: #E0E0E0; }
+.text-silver { color: #E0E0E0; }
+.bg-onyx { background-color: #000000; }
+.text-onyx { color: #000000; }
